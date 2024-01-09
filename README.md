@@ -1,7 +1,9 @@
 ## Olé! Eu sou o Luis Phellipi
 
 - 🔭 Hoje trabalho como Tutor e estou em busca da minha primeira oportunidade em front-end
+- 🔭 Today I work as a Tutor and I'm looking for my first opportunity in front-end
 - 🌱 Estudando JavaScript
+- 🌱 Studying JavaScript
 - 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
